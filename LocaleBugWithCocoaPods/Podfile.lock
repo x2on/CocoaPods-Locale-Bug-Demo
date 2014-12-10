@@ -1,0 +1,37 @@
+PODS:
+  - MRProgress (0.8.0):
+    - MRProgress/ActivityIndicator (= 0.8.0)
+    - MRProgress/Blur (= 0.8.0)
+    - MRProgress/Circular (= 0.8.0)
+    - MRProgress/Icons (= 0.8.0)
+    - MRProgress/NavigationBarProgress (= 0.8.0)
+    - MRProgress/Overlay (= 0.8.0)
+  - MRProgress/ActivityIndicator (0.8.0):
+    - MRProgress/Stopable
+  - MRProgress/Blur (0.8.0):
+    - MRProgress/Helper
+  - MRProgress/Circular (0.8.0):
+    - MRProgress/Helper
+    - MRProgress/ProgressBaseClass
+    - MRProgress/Stopable
+  - MRProgress/Helper (0.8.0)
+  - MRProgress/Icons (0.8.0)
+  - MRProgress/NavigationBarProgress (0.8.0):
+    - MRProgress/ProgressBaseClass
+  - MRProgress/Overlay (0.8.0):
+    - MRProgress/ActivityIndicator
+    - MRProgress/Blur
+    - MRProgress/Circular
+    - MRProgress/Helper
+    - MRProgress/Icons
+  - MRProgress/ProgressBaseClass (0.8.0)
+  - MRProgress/Stopable (0.8.0):
+    - MRProgress/Helper
+
+DEPENDENCIES:
+  - MRProgress (= 0.8)
+
+SPEC CHECKSUMS:
+  MRProgress: 2b65d6ec30a5d08b55efd3ceb3e714a5c6c9a28b
+
+COCOAPODS: 0.35.0
