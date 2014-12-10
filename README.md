@@ -3,8 +3,6 @@ CocoaPods-Locale-Bug-Demo
 
 A demo project for locale bug with CocoaPods
 
-Steps to reproduce the bug:
-
 Steps to reproduce the bug (Xcode 6.1.1):
 
 1. Create a Xcode Project
